@@ -1,1 +1,1 @@
-This repo is for Practicing the git commands  
+## This repo is for practicing the git command 
